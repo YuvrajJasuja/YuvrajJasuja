@@ -22,15 +22,23 @@
 ## 🛠️ Tech Stack
 #### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,c++,c,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,c,git,github" />
 </p>
 
 ---
+## 🧠 LeetCode Stats
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/
+YuvrajJasuja?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+
+---
 ## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Happy-Singh-Rajpurohit&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Happy-Singh-Rajpurohit&theme=tokyonight&hide_border=true" height="180"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=YuvrajJasuja&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajJasuja&theme=tokyonight&hide_border=true" height="180"/>  
 </p>
 
 ---
