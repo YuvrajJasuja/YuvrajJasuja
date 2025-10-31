@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 #### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,c,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github" />
 </p>
 
 ---
